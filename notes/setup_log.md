@@ -23,3 +23,9 @@
 - 安装VMware并配置了Kali虚拟机
 - 明白了VScode不能有中文路径否则会出问题
 
+## 2026.3.23 vector基本用法+sort排序
+- 头文件 <<vector>>
+- vector也会越界（不能访问空下标，不能空pop）
+- 其他:sort默认升序
+## 2026.4.9 针对Re面试的参考性整理
+- IDA使用，断点快捷键，shell commands，汇编语言、寄存器层级、jadx、脱简单魔改upx壳等
