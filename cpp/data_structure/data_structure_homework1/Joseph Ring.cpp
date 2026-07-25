@@ -46,6 +46,8 @@ class linkedlist{
         }
     }
 
+  
+
     void Gaming(){
         int tmp=0;
         Node* Prom_=tail_;
